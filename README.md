@@ -59,7 +59,7 @@
 ###
 
 <div align="left">
-<a href="https://linkedin.com/in/ajay lohith kulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay lohith kulla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajay-lohith-kulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay lohith kulla" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ajay_41" target="blank"><img align="center" src="https://cdn.brandfetch.io/idM2-b7Taf/w/40/h/40/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1735305762715"alt="codechef"/></a>
 <a href="https://www.leetcode.com/ajay_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajay_00" height="30" width="40" /></a>
 </div>
