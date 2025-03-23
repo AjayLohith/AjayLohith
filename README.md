@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,Machine Learning**
 
-- 🧑‍💻I created a simple website which manipulates text [TextTweaks](texttweaks.vercel.app)
+- 🧑‍💻I created a simple website which manipulates text [TextTweaks](https://github.com/AjayLohith/TextTweaks)
 
 - 💬 Ask me about **React,Figma,Java**
 
