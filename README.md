@@ -1,8 +1,10 @@
 # Ajay Lohith Kulla
 
-**Java Backend Developer · Spring Boot · Scalable REST APIs**
+### Java Backend Developer | Spring Boot | Scalable REST APIs | Microservices 
 
-B.Tech EEE (Final Year) · Vignan Institute of Information and Technology · CGPA: 8.0 / 10
+ 🎓 B.Tech EEE (Final Year)  
+🏛️ Vignan Institute of Information and Technology   
+📊 CGPA: 8.0 / 10
 
  📌 Open to **Full-Time Roles, Internships Opportunities**  
 📍 Backend-focused | Open to full-stack
