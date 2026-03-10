@@ -4,20 +4,30 @@
 
 B.Tech EEE (Final Year) · Vignan Institute of Information and Technology · CGPA: 8.0 / 10
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ajaylohithportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-lohith-kulla)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AjayLohith)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/ajay_00)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/ajay_41)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajaylohith855@gmail.com)
+ 📌 Open to **Full-Time Roles, Internships Opportunities**  
+📍 Backend-focused | Open to full-stack
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-EA580C.svg?style=flat&logo=vercel&logoColor=white)](https://ajaylohithportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-lohith-kulla)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/AjayLohith)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ajay_00)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/ajay_41)
+[![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:ajaylohith855@gmail.com)
 
 ---
 
 ## About Me
 
-Motivated Java Backend Developer with strong foundations in Core Java, Spring Boot, and RESTful API development. I enjoy designing scalable backend architectures, implementing efficient caching systems, and building secure authentication flows.
+Results-driven Java Backend Developer with a strong foundation in Core Java, 
+Spring Boot, and RESTful API development. Experienced in designing scalable 
+backend architectures, implementing efficient caching strategies, and building 
+secure authentication flows. Passionate about engineering high-performance 
+systems and delivering clean, maintainable code.
 
-Currently seeking **full-time roles, internships, and backend / full-stack opportunities** where I can contribute to high-scale production systems and grow as an engineer.
+Open to full-time roles, internships, and backend / full-stack opportunities 
+within high-scale production environments.
+
+
 
 ---
 
@@ -81,19 +91,18 @@ A full-stack MERN platform for crowd-sourcing and sharing interview experiences.
 
 ---
 
-### CodeList — Secure Task Management App
+### CodeList — Secure Task Management App    
 
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white" alt="Docker">
 </p>
 
 🌐 **Live:** https://code-list-omega.vercel.app/  
 💻 **GitHub:** https://github.com/AjayLohith/CodeList 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white)](https://code-list-omega.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/AjayLohith/CodeList)
+
 
 A backend-focused task management system with private user workspaces.
 
