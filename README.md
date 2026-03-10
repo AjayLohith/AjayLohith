@@ -48,7 +48,7 @@ within high-scale production environments.
 
 ## Projects
 
-### SnapLink — High-Performance URL Shortener
+### SnapLink - High-Performance URL Shortener
 
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
@@ -71,7 +71,7 @@ A production-grade URL shortening service engineered for speed and resilience.
 
 ---
 
-### PlacementPedia — Interview Experience Platform
+### PlacementPedia - Interview Experience Platform
 
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -93,7 +93,7 @@ A full-stack MERN platform for crowd-sourcing and sharing interview experiences.
 
 ---
 
-### CodeList — Secure Task Management App    
+### CodeList - Secure Task Management App    
 
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
