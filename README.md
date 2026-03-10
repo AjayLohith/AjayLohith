@@ -1,67 +1,148 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Ajay Lohith Kulla
+### Java Backend Developer | Spring Boot | Scalable REST APIs
 
-###
+🎓 B.Tech Graduate  
+📍 India  
 
-<h3 align="left">My name is Ajay🧑‍💻<br>I'm a Passionate Full Stack Developer, from India.</h3>
+📌 Open to **Full-Time Roles, Internships, and Backend / Full-Stack Opportunities**
 
-###
+---
 
-<h2 align="left">About me</h2>
+# 🌐 Profiles & Links
 
-###
+- Portfolio: https://ajaylohithportfolio.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/ajay-lohith-kulla
+- 💻 GitHub: https://github.com/AjayLohith
+- 🧠 LeetCode: https://leetcode.com/ajay_00
+- 🍴 CodeChef: https://www.codechef.com/users/ajay_41
+- 📧 Email: ajaylohith855@gmail.com
 
-<p align="left">✨ Creating bugs since my UG<br>📚 I'm currently learning React,Machine Learning<br>🧑‍💻I created a simple website which manipulates text TextTweaks<br>🎯 Goals: I'm aiming for a full-stack role at a top MNC companies<br>🎲Pastimes: Figma(UI/UX design),Blender</p>
+---
 
-###
+# 👨‍💻 Professional Summary
 
-<h2 align="left">I code with</h2>
+Motivated **Java Backend Developer** with strong foundations in **Core Java, Spring Boot, and RESTful API development**.  
+Experienced in designing **scalable backend architectures, caching systems, and secure authentication mechanisms** through real-world projects.
 
-###
+Passionate about building **high-performance systems**, solving complex backend problems, and continuously learning modern technologies.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-</div>
+---
 
-###
+# 🧠 Core Strengths
 
-<h2 align="left">Connect with me</h2>
+- Backend system design using **clean architecture**
+- Building **high-performance REST APIs with Spring Boot**
+- Implementing **Redis caching strategies**
+- Designing **secure authentication and authorization systems**
+- Developing **full-stack applications using MERN stack**
+- Strong debugging and problem-solving mindset
 
-###
+---
 
-<div align="left">
-<a href="https://linkedin.com/in/ajay lohith kulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay lohith kulla" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ajay_41" target="blank"><img align="center" src="https://cdn.brandfetch.io/idM2-b7Taf/w/40/h/40/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1735305762715"alt="codechef"/></a>
-<a href="https://www.leetcode.com/ajay_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajay_00" height="30" width="40" /></a>
-</div>
+# 🛠️ Technical Skills
 
-###
+| Category | Technologies |
+|--------|--------------|
+| Languages | Java, JavaScript, C, C++ |
+| Backend | Spring Boot, Spring MVC, Hibernate, Redis, REST APIs |
+| Frontend | React.js, HTML, CSS |
+| Databases | PostgreSQL, MySQL, MongoDB |
+| Tools | Git, GitHub, Docker, Firebase, Postman |
+| IDEs | IntelliJ IDEA, VS Code |
+
+---
+
+# 🚀 Projects
+
+## 🔹 SnapLink – High-Performance URL Shortener
+**Tech Stack:** Java, Spring Boot, Redis, PostgreSQL, Docker, REST APIs  
+
+🌐 **Live:** https://snaplinkk.vercel.app/  
+💻 **GitHub:** https://github.com/AjayLohith/url-shortner  
+
+- Architected a **high-performance URL redirect engine** using Spring Boot and Redis achieving **<10ms latency**.
+- Implemented **Base62 encoding with SecureRandom** supporting **3.5T+ URL permutations**.
+- Built an **IP-based Fixed Window Rate Limiter using Redis** to protect against API abuse.
+- Designed a **Fail-Open architecture** allowing PostgreSQL fallback when Redis is unavailable.
+- Optimized backend with **indexed DB lookups and HTTP 302 redirects** for high-traffic handling.
+
+---
+
+## 🔹 PlacementPedia – Interview Experience Platform
+**Tech Stack:** MongoDB, Express.js, React, Node.js, JWT, REST APIs, Tailwind CSS  
+
+🌐 **Live:** https://placementpedia.vercel.app/  
+💻 **GitHub:** https://github.com/AjayLohith/PlacementPortal  
+
+- Built a **full-stack MERN platform** for crowd-sourced interview experiences.
+- Implemented **JWT authentication with Role-Based Access Control (RBAC)** for secure content access.
+- Designed **scalable REST APIs** for managing user data and interview posts.
+- Developed **responsive UI using Tailwind CSS** improving cross-device compatibility.
+
+Platforms that help users practice interviews and coding skills are becoming increasingly popular in developer communities and educational platforms. :contentReference[oaicite:0]{index=0}
+
+---
+
+## 🔹 CodeList – Secure Task Management Application
+**Tech Stack:** Java, Spring Boot, MySQL, Docker, REST APIs  
+
+🌐 **Live:** https://code-list-omega.vercel.app/  
+💻 **GitHub:** https://github.com/AjayLohith/CodeList  
+
+- Developed a **secure task management system** to organize and track daily tasks.
+- Implemented **private user workspaces with CRUD operations and task status tracking**.
+- Designed backend capable of managing **100+ tasks per user efficiently**.
+- Containerized the application using **Docker** for consistent deployments.
+
+---
+
+# 🧑‍💻 Tech Stack
+
+| Backend | Frontend | Database | Tools |
+|-------|-------|-------|-------|
+| Java | React.js | PostgreSQL | Git |
+| Spring Boot | HTML | MySQL | GitHub |
+| Spring MVC | CSS | MongoDB | Docker |
+| Hibernate | JavaScript | Redis | Firebase |
+
+---
+
+# 📚 Currently Learning
+
+- Advanced **Spring Boot & Microservices**
+- **System Design fundamentals**
+- Backend **performance optimization**
+- Distributed systems and caching strategies
+
+---
+
+# 🎯 Goals
+
+- Work on **high-scale backend systems**
+- Build **production-grade distributed applications**
+- Strengthen **DSA and system design skills**
+- Grow into a **Senior Backend / Full Stack Engineer**
+
+---
+
+# 🎨 Interests
+
+- UI/UX Design with **Figma**
+- 3D Design using **Blender**
+- Building developer tools and experimental projects
+
+---
+
+# 📬 Connect With Me
+
+| Platform | Link |
+|--------|------|
+| LinkedIn | https://linkedin.com/in/ajay-lohith-kulla |
+| GitHub | https://github.com/AjayLohith |
+| LeetCode | https://leetcode.com/ajay_00 |
+| CodeChef | https://www.codechef.com/users/ajay_41 |
+| Email | ajaylohith855@gmail.com |
+
+---
+
+> ⚡ *Actively seeking backend-focused roles where I can build scalable systems and grow as a software engineer.*
