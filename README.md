@@ -7,7 +7,7 @@
 📊 CGPA: 8.0 / 10
 
  📌 Open to **Full-Time Roles, Internships Opportunities**  
-📍 Backend-focused | Open to full-stack
+📍 Backend-focused
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-EA580C.svg?style=flat&logo=vercel&logoColor=white)](https://ajaylohithportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-lohith-kulla)
@@ -129,5 +129,3 @@ When I'm not building APIs, I explore UI/UX design with **Figma**, experiment wi
 
 ---
 
-> *Actively seeking backend-focused roles where I can build scalable systems and grow as a software engineer.*
-> — [ajaylohith855@gmail.com](mailto:ajaylohith855@gmail.com)
