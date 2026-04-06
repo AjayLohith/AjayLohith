@@ -71,25 +71,33 @@ A production-grade URL shortening service engineered for speed and resilience.
 
 ---
 
-### PlacementPedia - Interview Experience Platform
+### PlacementBoard - Placement & Career Portal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=flat&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/React-20232A.svg?style=flat&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/MongoDB-13AA52.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/JWT-000000.svg?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Brevo-FF6B35.svg?style=flat&logo=brevo&logoColor=white" alt="Brevo">
+  <img src="https://img.shields.io/badge/Groq%20AI-FF6B35.svg?style=flat&logoColor=white" alt="Groq AI">
+  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=flat&logo=render&logoColor=black" alt="Render">
 </p>
 
-🌐 **Live:** https://placementpedia.vercel.app/  
-💻 **GitHub:** https://github.com/AjayLohith/PlacementPortal
+🌐 **Live:** https://placement-board-six.vercel.app/  
+💻 **GitHub:** https://github.com/AjayLohith/PlacementBoard
 
-A full-stack MERN platform for crowd-sourcing and sharing interview experiences.
+A full-stack platform for job listings, company reviews, interview experiences, and AI-powered career guidance.
 
-- Implemented **JWT authentication with Role-Based Access Control (RBAC)** for secure content management
-- Designed scalable REST APIs for handling user data and interview post operations
-- Built a **responsive UI with Tailwind CSS** for seamless cross-device experience
+- Built with **Spring Boot backend** and **React frontend** for scalable architecture
+- Implemented **JWT authentication** with role-based access control (RBAC)
+- Integrated **MongoDB** for persistent data storage
+- Powered by **Groq LLaMA 3.3** for AI-driven career insights
+- Email notifications via **Brevo SMTP** for password resets and OTPs
+- Deployed on **Vercel** (frontend) and **Render** (backend)
 
 ---
 
