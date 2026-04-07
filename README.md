@@ -53,6 +53,8 @@ within high-scale production environments.
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
+   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white" alt="Docker">
@@ -81,7 +83,6 @@ A production-grade URL shortening service engineered for speed and resilience.
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/JWT-000000.svg?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT">
-  <img src="https://img.shields.io/badge/Brevo-FF6B35.svg?style=flat&logo=brevo&logoColor=white" alt="Brevo">
   <img src="https://img.shields.io/badge/Groq%20AI-FF6B35.svg?style=flat&logoColor=white" alt="Groq AI">
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=flat&logo=render&logoColor=black" alt="Render">
